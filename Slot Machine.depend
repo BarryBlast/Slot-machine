@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671462121 source:c:\users\timba\desktop\personal projects\slot machine\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+	<unistd.h>
+	<stdlib.h>
+
